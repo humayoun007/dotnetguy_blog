@@ -1,0 +1,4 @@
+# With the following attribute, Linguist detects all .css files as being php files.
+*.css linguist-language=php
+# Linguist counts php files in statistics
+*.php linguist-detectable=true
